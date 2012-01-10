@@ -1,0 +1,92 @@
+# DATA FILE LIST
+# 本書の各章中に使用したデータファイルである。
+#(練習問題)としたものは、本書の中で使っていないが、練習問題の便宜のために用意した。
+
+#Chapter1
+Kakeicho.csv
+ROCHO.csv
+
+#Chapter2
+GDPA1980TABLE.csv
+IIP_PSS.csv (練習問題)
+IIP1998_2.csv (練習問題)
+
+#Chapter3
+GDPA1980TABLE.csv
+GDPO1980TABLE.csv
+GDPannual.csv
+GDP_DDFD.csv
+GDPdef.csv
+Kakei_monthly.csv (練習問題)
+GDPX.csv (補足)
+
+#Chapter4
+GDPO1980TABLE.csv
+IIPO1978.csv
+
+#Chapter5
+Labor.csv
+fukyuritsu6.csv
+
+#Chapter6
+IIPO1978.csv
+NITTETSU.csv
+GDPO1980TABLE.csv
+
+#Chapter7
+GDPO1980TABLE.csv
+
+#Chapter8
+IIP1998.csv
+icchi2000.csv
+IP_1955.csv (練習問題)
+senko2000.csv (練習問題)
+chiko2000.csv (練習問題) 
+
+#Chapter9
+なし
+
+#Chapter10
+TENSU.txt (補論)
+
+#Chapter11
+なし
+
+#Chapter12
+なし
+
+#Chapter13
+Cons.csv
+IIPO1978.csv
+
+#Chapter14
+なし
+
+#Chapter15
+IIPO1978.csv
+stock.csv (練習問題)
+
+#Chapter16
+なし
+
+#Chapter17
+GDPA1980TABLE.csv
+GDPO1980TABLE.csv
+
+#Chapter18
+GDPA1980TABLE.csv
+
+#Chapter19
+GDPO1980TABLE.csv
+
+#Chapter20
+GDPO1980TABLE.csv
+
+#Chapter21
+IPO1980.csv
+
+
+
+
+
+

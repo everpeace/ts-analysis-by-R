@@ -1,0 +1,6 @@
+sqrt(2)
+library(Rcmdr)
+getwd()
+source("/Users/everpeace/Documents/github/ts-analysis-by-R/4.trend-extraction/4.2.linear-trend-extraction/4.2.3.GDP-linear-trend-extraction-by-lsm.R")
+quit
+q()
