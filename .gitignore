@@ -56,3 +56,6 @@ target
 .ensime
 .ensime~
 
+# R
+**/.Rapp.history
+
